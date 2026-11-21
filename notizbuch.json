@@ -1,0 +1,38 @@
+{
+  "active": 0,
+  "font": 3,
+  "tabs": [
+    {
+      "name": "Bericht",
+      "spread": 1,
+      "intro": {
+        "title": "Berichtsbuch",
+        "body": "Berichte sind dein Gedächtnis vor Ort.\nSie fassen alle wichtigen Informationen zusammen: Berichte, Beobachtungen, bemerkenswerte Ereignisse und Fakten aus der Welt."
+      },
+      "leaves": [
+        {
+          "front": {
+            "title": "Berichtsheft  | Banri Takigawa",
+            "body": "Dorf: Sunagakure\nRang: Genin\nAlter: 9\nClan: Kein Clan\n\nBesuchte Fächer:\n- Die 11 Mudras\n- Die Goldenen Regeln\n- Militärische Hierarchie\n- Hausordnung\n- Gesetz der Wüste\n- Chakrasprung\n- Tauchjutsu\n- Der Nindo\n- Medizin Grundkurs Teil 1\n- Medizin Grundkurs Teil 2\n \nBestandene Prüfungen:\n16.11.2026 - Genin\n\n"
+          },
+          "back": {
+            "title": "",
+            "body": "17.11.26 - Glühende Böe Erlernt.\n\n18.11.26 - Medizin Grundkurs Teil 3 ( Ich bin nun für die Prüfung zugelassen).\n\n19.11.26 \n- Meine ersten beiden Doton Jutzus erlernt.\n- Epische Bestätigter Genin Prüfung Erfolgreich bestanden.\n\n20.11.26\n- Meine ersten Kampf Erfahrungen gegen Gleichaltrige sowie Ältere Shinobi Bestritten.\n- Meine Beiden C Rang Doton Jutzus erlernt.\n- Das erste mal Mit meinen Konin Freunden nach draußen gegangen auf Samel Mission.\n(Ohne Zwischen fälle)\n\n21.11.26\n- Begebe mich den Intensiven Vorbereitungen zur bestehen der Medizin Grundprüfung hin (Zuhause Lehrnen).\n\n22.11.26\n- \n "
+          }
+        },
+        {
+          "front": {
+            "title": "",
+            "body": ""
+          },
+          "back": {
+            "title": "",
+            "body": ""
+          }
+        }
+      ]
+    }
+  ],
+  "savedAt": 1795255897187,
+  "sign": "Banri Takigawa"
+}
